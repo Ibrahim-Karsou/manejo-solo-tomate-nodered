@@ -14,6 +14,6 @@ O arquivo `flows.json` tem o fluxo completo do painel: a parte que recebe os dad
 1. Instalar o @flowfuse/node-red-dashboard pelo Manage palette.
 2. Importar o flows.json (menu > Import).
 3. No nó "Servidor Hive", informar usuário e senha do broker (não estão no arquivo).
-4. Fazer o Deploy e abrir http://127.0.0.1:1880/dashboard
+4. Fazer o Deploy e abrir http://127.0.0.1:1880/dashboard e http://127.0.0.1:1880 
 
 Tópicos usados: tomate/leituras e tomate/estado.
